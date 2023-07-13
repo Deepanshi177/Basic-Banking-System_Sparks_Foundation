@@ -1,1 +1,1 @@
-# Basic Banking System - Project of Sparks Foundation
+# Basic Banking System  Project of Sparks Foundation
